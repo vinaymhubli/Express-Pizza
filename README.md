@@ -1,15 +1,15 @@
 # Express-Pizza🍕🚚
 Real-world demo application showing how to use the drop-down button, Loading Lottie images from assets using the material page routes
 # Technical Outline 📕
-❶ splash screen page
-❷ pizza home banner page
-❸ veg pizza page
-❹ non veg pizza page
-❺ fav pizza page
-❻ cart page
-❼ payment sucessful page
-❽ pizza getting ready page
-❾ rating page 
+❶ splash screen page\
+❷ pizza home banner page\
+❸ veg pizza page\
+❹ non veg pizza page\
+❺ fav pizza page\
+❻ cart page\
+❼ payment sucessful page\
+❽ pizza getting ready page\
+❾ rating page \
 # Vedio Preview
 https://user-images.githubusercontent.com/112925756/189805524-4eb0fe8f-b5c4-4439-b48e-fa5c5a355a5c.mp4
 # Screenshot
